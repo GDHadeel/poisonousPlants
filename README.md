@@ -22,7 +22,7 @@ This repository contains a Java implementation of the **Poisonous Plants Problem
 - **`plants.java`**:  
   Contains the `Stk` class, a custom stack implementation used for handling plant indices and operations.
 
-### Key Functions in `plantsLife.java`:
+## Key Functions in `plantsLife.java`:
 
 - **`main(String[] args)`**:  
   Entry point for the program. Reads input and calls the `process` method.
